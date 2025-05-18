@@ -1,3 +1,5 @@
 streamlit
-torch
+tensorflow
 transformers
+Pillow
+groq
