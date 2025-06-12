@@ -1,0 +1,9 @@
+streamlit
+groq
+requests
+pandas
+pycountry
+fpdf
+geopy
+plotly
+python-dotenv
