@@ -43,11 +43,4 @@ The following environment variables need to be set in your `.env` file:
 - Use environment variables for all sensitive information
 
 ## Deployment on Hugging Face
-
-1. Create a new Space on Hugging Face
-2. Set up your environment variables in the Space settings
-3. Deploy your application using the Hugging Face CLI or web interface
-
-## License
-
-MIT License 
+Link :  https://huggingface.co/spaces/anasfsd123/AI-Farming-Assistant-App
