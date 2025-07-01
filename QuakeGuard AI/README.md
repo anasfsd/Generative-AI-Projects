@@ -24,5 +24,4 @@ quakeguard-ai/
 
 ## Deployment on Hugging Face:
 
-link:
-
+link: https://huggingface.co/spaces/anasfsd123/QuakeGuardAI
