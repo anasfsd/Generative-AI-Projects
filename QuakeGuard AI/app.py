@@ -11,7 +11,7 @@ from visualization import create_advanced_map, create_comprehensive_charts
 
 def main():
     st.set_page_config(
-        page_title="🌍 Advanced Earthquake Warning System",
+        page_title="🌍 QuakeGuard AI",
         page_icon="🌍",
         layout="wide",
         initial_sidebar_state="expanded"
