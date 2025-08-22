@@ -1,6 +1,6 @@
-# 🌍 QuakeGuard AI 
+# 🌍 QuakeGuard GPT 5 
 
-A Streamlit app to fetch, analyze, and visualize earthquake data with AI-powered risk analysis using Groq LLM.
+A Streamlit app to fetch, analyze, and visualize earthquake data with AI-powered risk analysis using GPT5 and Groq LLM.
 
 ## 🚀 Features
 - **Real-time Data:** Pull the latest earthquake events from the USGS API.
@@ -24,4 +24,5 @@ quakeguard-ai/
 
 ## Deployment on Hugging Face:
 
-link: https://huggingface.co/spaces/anasfsd123/QuakeGuardAI
+link: https://huggingface.co/spaces/anasfsd123/QuakeGuardGPT
+
